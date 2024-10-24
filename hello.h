@@ -7,7 +7,7 @@
 
 
 class hello {
-    dadada;
+    cnt<<<"hello world"<<endl;
 
 };
 
